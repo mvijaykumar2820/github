@@ -1,2 +1,2 @@
 console.log("index.js file");
-console.log("version 2.0.0");
+console.log("version 3.0.0");
